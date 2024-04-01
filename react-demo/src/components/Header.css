@@ -1,9 +1,0 @@
-header {
-    display: flex; /* Use flexbox to align items horizontally */
-    align-items: center; /* Center items vertically */
-  }
-  
-  .logo {
-    margin-right: 10px; /* Adjust the margin between the logo and the company name */
-  }
-  

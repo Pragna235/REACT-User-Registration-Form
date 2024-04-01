@@ -1,12 +1,11 @@
 import React from 'react'
-import Header from './components/Header'
-import LoginForm from './components/LoginForm'
+import RegistrationForm from './components/RegistrationForm'
 
 function App() {
   return (
     <div >
-      <Header />
-      <LoginForm />
+      <h1>User Registration Form</h1>
+      <RegistrationForm />
     </div>
   )
 }
