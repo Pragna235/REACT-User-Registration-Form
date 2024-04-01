@@ -10,3 +10,6 @@
 * Create a REACT App
 * Write code in `UserDetails.js` , `UserInfo.js` , `Address.js` , `Address.css` , `RegistrationForm.js` , `App.js`
 *     npm start
+
+## Files - https://github.com/Pragna235/REACT-User-Registration-Form/tree/master
+## Live Project - https://registration-form-react-app.netlify.app/
